@@ -11,6 +11,13 @@ skinparam queue {
 	FontSize 14
 	FontColor #ffffff
 }
+skinparam database {
+	BorderColor #003245
+	BackgroundColor #7030a0
+	FontName "Calibri"
+	FontSize 14
+	FontColor #ffffff
+}
 skinparam participant {
 	BorderColor #003245
 	BackgroundColor #7030a0
