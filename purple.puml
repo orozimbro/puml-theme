@@ -16,7 +16,7 @@ skinparam database {
 	BackgroundColor #7030a0
 	FontName "Calibri"
 	FontSize 14
-	FontColor #ffffff
+	FontColor #003245
 }
 skinparam participant {
 	BorderColor #003245
