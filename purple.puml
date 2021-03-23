@@ -1,0 +1,36 @@
+skinparam roundcorner 20
+skinparam defaultFontName        "Calibri"
+skinparam style strictuml
+skinparam backgroundColor #d9d9d9
+skinparam queue {
+	BorderColor #003245
+	BackgroundColor #7030a0
+	FontName "Calibri"
+	FontSize 14
+	FontColor #ffffff
+}
+skinparam participant {
+	BorderColor #003245
+	BackgroundColor #7030a0
+	FontName "Calibri"
+	FontSize 14
+	FontColor #ffffff
+}
+
+skinparam sequence {
+	ArrowColor #980098
+	LifeLineBorderColor #003245
+	LifeLineBackgroundColor #003245
+        LifeLineFontSize 12
+	BoxBackgroundColor #f4cef4
+	BoxBorderColor #003245
+        BoxFontSize 15
+	''BoxFontName "Calibri"
+	
+}
+skinparam arrow {
+	Thickness 3
+	Color #980098
+	FontColor #003245
+    FontSize 12
+}
