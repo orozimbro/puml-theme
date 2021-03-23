@@ -1,5 +1,3 @@
-autonumber "."
-
 skinparam roundcorner 20
 skinparam defaultFontName        "Calibri"
 skinparam style strictuml
